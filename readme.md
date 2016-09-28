@@ -42,6 +42,13 @@ MAIL_ENCRYPTION=null
 Ketikkan pada terminal/command prompt
 
 ```
+$ php artisan migrate
+```
+
+## Isi database menggunakan seeder
+Ketikkan pada terminal/command prompt
+
+```
 $ php artisan make:seeder ContactTableSeeder
 ```
 Kalau sudah selesai run seeder
