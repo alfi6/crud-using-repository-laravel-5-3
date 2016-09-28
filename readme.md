@@ -54,7 +54,7 @@ Ketikkan pada terminal/command prompt
 ```
 $ php artisan serve
 ```
-selanjutnya buka browser dan ketikkan
+selanjutnya buka browser dan ketikkan pada url
 ```
 localhost:8000/api/contacts
 ```
