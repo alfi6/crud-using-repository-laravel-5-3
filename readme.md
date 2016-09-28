@@ -53,7 +53,7 @@ $ php artisan make:seeder ContactTableSeeder
 ```
 Kalau sudah selesai run seeder
 ```
-$ php artisan db:seeder
+$ php artisan db:seed
 ```
 ## Start a live-reload development server 
 Ketikkan pada terminal/command prompt
